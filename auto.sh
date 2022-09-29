@@ -8,7 +8,7 @@
 function usage() {
     echo
     echo
-    echo "X-Script By @Pwnsec"
+    echo "X-Script By @Pwnsec: Pwncore.co"
     echo
     echo "Usage: $o <mod> <secrets..."
     echo
