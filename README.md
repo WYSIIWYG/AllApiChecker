@@ -1,5 +1,5 @@
 # AllApiChecker
-All in One Api Checker By Pwn(C0re)
+All in One Api Checker By @Pwnsec
 
 
 ![Alt text](https://pwncore.shx.is/5huujLFwv.gif "screen")
@@ -7,12 +7,7 @@ All in One Api Checker By Pwn(C0re)
 
 # Support Us 
 
-https://t.me/vPwnd
-
-https://t.me/vPwndCom
-
-https://pwncore.keybase.pub
-
+Pwncore.co
 
 
 
