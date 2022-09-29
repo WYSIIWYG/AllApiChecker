@@ -2,13 +2,13 @@
 
 # source: https://github.com/PwnC00re/AllApiChecker
 
-# Join Us! : https://t.me/vPwnd
+# Join Us! : Pwncore.co
 
 
 function usage() {
     echo
     echo
-    echo "X-Script By PwnC0re : https://t.me/vPwnd"
+    echo "X-Script By @Pwnsec"
     echo
     echo "Usage: $o <mod> <secrets..."
     echo
